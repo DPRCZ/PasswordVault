@@ -1,4 +1,5 @@
 /* SPDX-License-Identifier: MIT */
+/* Copyright (c) 2026 DPRCZ     */ 
 /*******************************************************************************
  * @file main.c
  * @brief Entry point for the CH552 USB Password Token Application.
