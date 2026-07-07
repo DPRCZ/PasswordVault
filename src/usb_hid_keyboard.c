@@ -1,4 +1,5 @@
 /* SPDX-License-Identifier: MIT */
+/* Copyright (c) 2026 DPRCZ     */ 
 /*******************************************************************************
  * @file  usb_hid_keyboard.c
  * @brief USB HID Keyboard simulation and key emulation

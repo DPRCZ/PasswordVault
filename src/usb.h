@@ -1,4 +1,5 @@
 /* SPDX-License-Identifier: MIT */
+/* Copyright (c) 2026 DPRCZ     */ 
 /*******************************************************************************
  * @file usb.h
  * @brief USB core layout declarations, HID reports maps, buffers.

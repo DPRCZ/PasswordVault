@@ -1,4 +1,5 @@
 /* SPDX-License-Identifier: MIT */
+/* Copyright (c) 2026 DPRCZ     */ 
  /*******************************************************************************
  * @file usb_descr.c
  * @brief USB Raw static hardware hardware structure layout vectors.
