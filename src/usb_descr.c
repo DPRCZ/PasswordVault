@@ -18,7 +18,7 @@ __code uint8_t DevDesc[18] =
     0x00,               // bDeviceProtocol: Protocol code
     EP0_SIZE,          // bMaxPacketSize0: Maximum packet size for Endpoint 0
     0x50, 0x1D,         // idVendor: Vendor ID (0x1D50)
-    0x9F, 0x64,         // idProduct: Product ID (0x619F)
+    0x9F, 0x61,        // idProduct: Product ID (0x619F)
     0x00, 0x00,         // bcdDevice: Device release number
     0x00,               // iManufacturer: Index of string descriptor for manufacturer
     0x00,               // iProduct: Index of string descriptor for product
